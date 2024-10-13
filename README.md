@@ -1,3 +1,3 @@
 # MSCO
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/breadles5/MSCO)
+simple chat overlay for obs that i made
+not going to add docs for now since this is very wip
